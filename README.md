@@ -2,7 +2,7 @@
 
 ## About The Project
 
-Callvita Task Management is a web app that allows you to add, get, edit, delete your tasks and also search your tasks for specific keywords.
+Callvita Task Management is a web app that allows you to add, get, edit, delete your tasks and also search your tasks by specific keyword.
 
 ## Getting Started
 
@@ -12,7 +12,7 @@ First you need to Clone this repo
 git clone https://github.com/FadyAttia11/callvita-server.git
 ```
 
-Then you need to cd to the root of the project by writing
+Then you need to cd to the root directory of the project by writing
 
 ```sh
 cd callvita-server
